@@ -9,6 +9,8 @@
     /Dispensaries Location
     /Contact - About Us
 
+    Applying a quick change
+
 
 *Product Detail Pages
     - Name of Strain / Product
